@@ -1,0 +1,12 @@
+{
+ "dados": {
+  "versao": "1.1.1",
+  "url": "https://github.com/sheipersfitness-cloud/velox-atualizacoes/releases/download/v1.1.1/Setup_VeloxVendas_1.1.1.exe",
+  "sha256": "630764af24ba0edfdcb8b14c3d627b6b3ab7d4dee0dc16b30f978ad483592619",
+  "tamanho": 95988688,
+  "notas": "",
+  "obrigatoria": false,
+  "data": "06/10/2026"
+ },
+ "assinatura": "aaaa32fe753334bc9e530e89efbda3809edb70edda78c9092ba99421286b2e766ba345fbf3bf679b632a8a82389e5e5b819ec0af2c8b654315ab42976592a00f"
+}
